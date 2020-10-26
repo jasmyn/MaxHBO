@@ -4,7 +4,8 @@ Toggles the play/seek bar on HBOMax.
 
 ##Use
 
-Right-click > "HBOMax Toggle UI"
+- Install in Greasemonkey.
+- Right-click > "HBOMax Toggle UI"
 
 ##Compatability
 
