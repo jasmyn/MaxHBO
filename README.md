@@ -9,4 +9,4 @@ Toggles the play/seek bar on HBOMax.
 
 ## Compatability
 
-Newer versions of Chrome don't seem to support `GM_registerMenuCommand`, so you can't add context menus. Use Firefox / Greasemonkey.
+Newer versions of Chrome don't seem to support `GM_registerMenuCommand`, so you can't add context menus. Use Firefox.
