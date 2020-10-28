@@ -1,3 +1,5 @@
+![logo](./maxhbo.png)
+
 # MaxHBO
 
 Toggles the play/seek bar on HBOMax.
